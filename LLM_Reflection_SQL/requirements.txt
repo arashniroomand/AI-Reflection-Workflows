@@ -1,0 +1,5 @@
+streamlit
+pandas
+aisuite
+python-dotenv
+tabulate
