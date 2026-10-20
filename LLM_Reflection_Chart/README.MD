@@ -47,7 +47,6 @@ Execute the following command in your terminal to launch the Streamlit server:
 streamlit run app.py
 ```
 
-*(Note: Replace `app.py` with your actual main script filename if it differs).*
 
 ## Usage
 
